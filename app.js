@@ -19,8 +19,6 @@ const saveCertificates = (arr) => {
   fs.writeFileSync(certificatesFile, data, 'utf8');
 };
 
-// const 
-
 app.get(certificatesRoute, (req, res) => {
   const certificates = readCertificates();
   res.status(200).json({ certificates });
@@ -69,5 +67,4 @@ app.delete(`${certificatesRoute}/:id`, (req, res) => {
 
   res.status(200).end();
 });
-
 module.exports = app;

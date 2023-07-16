@@ -1,14 +1,170 @@
 [
   {
-    "id": 1,
+    "id": "b8c8fdc8-9941-4669-bd92-773c85fa950a",
     "url": "https://pdf.credential.net/0vjubn6d_1687484987922.pdf",
     "title": "Fundamentals of Web Development",
     "school": "Trybe"
   },
   {
-    "id": "04579a37-1d0b-4126-b247-dddb9f25ea75",
+    "id": "8e631fdf-a672-4fa8-9c29-22fba681f095",
+    "url": "https://pdf.credential.net/q515v6sr_1689271928966.pdf",
+    "title": "Front-End Web Development",
+    "school": "Trybe"
+  },
+  {
+    "id": "23bc3802-1a33-40c0-9480-41e645c59d69",
+    "url": "https://smartcerts.co/data/certificate-ywxqdpoj.pdf",
+    "title": "Introdutory JavaScript course",
+    "school": "Trybe"
+  },
+  {
+    "id": "71995238-a12d-46f5-9cae-4d1ce2c79f63",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/tipografia-conceito/certificate",
+    "title": "Typography: exploring what lies behind typefaces",
+    "school": "Alura"
+  },
+  {
+    "id": "0e1c47dc-c906-44bf-b2b9-d3b725bdcd89",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/seo-otimizacao-sites/certificate",
+    "title": "SEO: website optimization",
+    "school": "Alura"
+  },
+  {
+    "id": "a3b81fc8-2711-4667-ab92-8fb3a56d1cdb",
     "url": "https://cursos.alura.com.br/user/bshiromoto/course/mobile-first-layouts-responsivos/certificate",
-    "title": "Layouts responsivos",
+    "title": "Responsive layouts: working with mobile layouts",
+    "school": "Alura"
+  },
+  {
+    "id": "fd9ac657-ee0e-40f9-bf02-3d7f65257f92",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-metodos-array/certificate",
+    "title": "JavaScript: array methods",
+    "school": "Alura"
+  },
+  {
+    "id": "e233a611-e3b5-4a7c-b19e-4ecc4ee5e610",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-manipulando-objetos/certificate",
+    "title": "JavaScript: manipulating objects",
+    "school": "Alura"
+  },
+  {
+    "id": "ce75b487-99fb-420a-a6b3-a1b5e80c419e",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-manipulando-dom/certificate",
+    "title": "JavaScript: manipulating the DOM",
+    "school": "Alura"
+  },
+  {
+    "id": "bad83ea0-f104-4ffa-bde2-b89934fc9a14",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-consumindo-tratando-dados-api/certificate",
+    "title": "JavaScript: consuming and handling data from an API",
+    "school": "Alura"
+  },
+  {
+    "id": "ed510e59-cff7-4ba3-bc96-8d4361fbcfde",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-arrays/certificate",
+    "title": "JavaScript: arrays",
+    "school": "Alura"
+  },
+  {
+    "id": "c27413b0-0fad-4009-8535-30e93173d2e4",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-web-paginas-dinamicas/certificate",
+    "title": "JavaScript for the web: create dynamic pages",
+    "school": "Alura"
+  },
+  {
+    "id": "4e596139-bd78-4864-9409-dfa88ea6a1bb",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/javascript-web-armazenando-dados-navegador/certificate",
+    "title": "JavaScript on the web: storing data in the browser",
+    "school": "Alura"
+  },
+  {
+    "id": "153c315d-59fd-497c-bdd2-e94f1f1db363",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/logica-programacao-javascript-html/certificate",
+    "title": "JavaScript and HTML: develop a game and practice programming logic",
+    "school": "Alura"
+  },
+  {
+    "id": "e2065c56-4397-490e-8aad-1f06aec96a41",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html5-css3-avancando-css/certificate",
+    "title": "HTML5 and CSS3 part 4: advancing in CSS",
+    "school": "Alura"
+  },
+  {
+    "id": "928b14cb-1b17-4887-878c-095171914ebd",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html5-css3-formularios-tabelas/certificate",
+    "title": "HTML5 and CSS3 part 3: working with forms and tables",
+    "school": "Alura"
+  },
+  {
+    "id": "e4e15ada-08d7-43b9-be8d-66c30bdfbd38",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html5-css3-posicionamento-listas-navegacao/certificate",
+    "title": "HTML5 and CSS3 part 2: positioning, lists and navigation",
+    "school": "Alura"
+  },
+  {
+    "id": "e1f9f7dd-dfc8-40b3-85cf-e2bbe4db9d27",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html5-css3-primeiros-passos/certificate",
+    "title": "HTML5 and CSS3 part 1: creating a web page",
+    "school": "Alura"
+  },
+  {
+    "id": "ad9d6f3f-41f1-441a-aa00-ce4b829abce7",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html-css-responsividade-mobile-first/certificate",
+    "title": "HTML and CSS: responsiveness with mobile-first",
+    "school": "Alura"
+  },
+  {
+    "id": "590ffc44-e613-4188-9d17-3a7f8a07946a",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/html-css-praticando-html-css/certificate",
+    "title": "HTML and CSS: practicing HTML/CSS",
+    "school": "Alura"
+  },
+  {
+    "id": "77741dd2-d4cb-49e5-bb48-3a29b074f69b",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/guia-estilos-paginas-componentes/certificate",
+    "title": "Style guide: building pages with components",
+    "school": "Alura"
+  },
+  {
+    "id": "27f58548-f77c-43a0-879e-f5c3a81e6494",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/posicione-elementos-com-flexbox/certificate",
+    "title": "Flexbox: position elements on the screen",
+    "school": "Alura"
+  },
+  {
+    "id": "9836862a-dd3e-4010-84e1-cb55e3d08896",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/expressoes-regulares/certificate",
+    "title": "Regular expressions: capturing texts in a magical way",
+    "school": "Alura"
+  },
+  {
+    "id": "9136cc45-1161-4e8f-89b5-25c037da3c80",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/css-dispondo-elementos-flexbox-grid/certificate",
+    "title": "CSS: arranging elements with flexbox and grid",
+    "school": "Alura"
+  },
+  {
+    "id": "6b1f7425-9ffa-4911-91b2-3e39100ec17a",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/cores-design-teoria-pratica/certificate",
+    "title": "Colors in design: theory and practice",
+    "school": "Alura"
+  },
+  {
+    "id": "d2373bcc-04ba-40b0-89d2-16724186c138",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/chatgpt-otimizando-qualidade-resultados/certificate",
+    "title": "ChatGPT: optimizing result quality",
+    "school": "Alura"
+  },
+  {
+    "id": "4103fb7f-0518-4c91-8287-5d0d99f115b3",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/arquitetura-css/certificate",
+    "title": "CSS architecture: simplifying the problems",
+    "school": "Alura"
+  },
+  {
+    "id": "f2f09488-282d-4ef4-8015-f770a863bee4",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/acessibilidade-web-front-end/certificate",
+    "title": "Web accessibility part 1: making your front-end inclusive",
     "school": "Alura"
   }
 ]

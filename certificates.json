@@ -166,5 +166,35 @@
     "url": "https://cursos.alura.com.br/certificate/2c46f270-9558-415d-ab2f-a25ce08a4d2c?lang=en",
     "title": "Web accessibility part 1: making your frontend inclusive",
     "school": "Alura"
+  },
+  {
+    "id": "ba31fba2-05aa-4ca2-9632-4da93164add0",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/git-github-repositorio-commit-versoes/certificate?lang=en",
+    "title": "Git & GitHub: repository, commit and versions",
+    "school": "Alura"
+  },
+  {
+    "id": "eac25f61-de71-4bd1-9f8f-3f0790663bbd",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/git-github-controle-de-versao/certificate?lang=en",
+    "title": "Git & GitHub: control and share your code",
+    "school": "Alura"
+  },
+  {
+    "id": "b5fd19e8-fe70-4620-af8f-c355435a4ab8",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/nodejs-criando-primeira-biblioteca/certificate?lang=en",
+    "title": "Node.js: creating your first library",
+    "school": "Alura"
+  },
+  {
+    "id": "25689f48-2a8e-4633-8cfb-e7b72939b338",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/docker-criando-gerenciando-containers/certificate?lang=en",
+    "title": "Docker: creating and managing containers",
+    "school": "Alura"
+  },
+  {
+    "id": "dc4aac2f-bb4f-4fdd-bbf7-bca955d51694",
+    "url": "https://cursos.alura.com.br/user/bshiromoto/course/bootstrap5-landing-page-responsiva/certificate?lang=en",
+    "title": "Bootstrap5: create a responsive landing page",
+    "school": "Alura"
   }
 ]
